@@ -1,5 +1,5 @@
 # Astrodynamics-
-Assignments and Quizzes from my astrodynamics class
+Assignments and Quizzes from my Astrodynamics class
 
 Problems from EAS4510 Course Notes
 
